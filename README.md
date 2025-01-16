@@ -1,16 +1,13 @@
-## Hi there 👋
+# HI, I'm Hong Hun
 
-<!--
-**Hun-Hong/Hun-Hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Learning: Python, PyTorch, SQL.
+- 💬 Ask me about AI/ML projects!
+- 📫 Contact me: adeliae.p1841@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools I Use
+- Programming Languages: Python
+- Frameworks & Libraries: Pytorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hun-Hong&show_icons=true)
